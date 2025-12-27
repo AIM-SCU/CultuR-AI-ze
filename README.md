@@ -10,7 +10,7 @@ We study cross-cultural meme transcreation between Chinese and US cultures—a m
 
 ## Data
 
-The images and corresponding annotations can be accessed at [HuggingFace Dataset](https://huggingface.co/datasets/AIM-SCU/MemeXGen)
+The images pairs can be accessed at [HuggingFace Dataset](https://huggingface.co/datasets/AIM-SCU/MemeXGen)
 
 
 
